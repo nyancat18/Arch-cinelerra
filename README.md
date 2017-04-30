@@ -23,7 +23,7 @@ No build required
 ### OptDeps
 
 ##### firejail-extras
-Lets you run Natron at an isolated, network-less enviorment, without run an expensive VM.
+Lets you run Cinelerra at an isolated, network-less enviorment, without run an expensive VM.
 
 
 ### Build flags
@@ -36,4 +36,4 @@ GPLv3. See [LICENSE](LICENSE)
 ## Donations
 Donations are welcome and keep me motivated :-)
 * BTC: `13wwYd4T8nzcDziq9MjEbaWG53ongxzK99`
-* LTC: `LRwx5m8oJojHwtdKJZS8odeonMVqGAXL6E`
+* LTC: `LfDZfSaoyGtm8nEmfE4tsz8MtajPXfDAYd`
